@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 export default function Navbar() {
 	return (
-		<div className="flex w-screen bg-gray-800 h-12 mb-4 items-center">
+		<div className="flex w-screen text-gray-200 bg-gray-800 h-12 mb-4 items-center">
 			<div className="pl-2 flex-grow">Logo</div>
 
 			<ul className=" grid grid-cols-3 ">
